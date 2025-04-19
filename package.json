@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-intersection-observer": "^9.16.0",
+    "sweetalert2": "^11.17.2"
+  },
+  "devDependencies": {
+    "npm-force-resolutions": "^0.0.10"
+  }
+}
